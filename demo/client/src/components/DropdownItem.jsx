@@ -1,7 +1,7 @@
 import React from 'react';
 
 /*
-  A reusable component for all dropdowns in the query
+  A reusable component for all dropdowns in the demo
 */
 
 const DropdownItem = (props) => {
